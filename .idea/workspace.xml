@@ -59,10 +59,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ExporterApp.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ExporterApp.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ExporterApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="36" selection-start="1097" selection-end="1097" vertical-scroll-proportion="0.78533095">
+            <state line="44" column="29" selection-start="1316" selection-end="1316" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,7 +73,16 @@
       <file leaf-file-name="GenericExportGateway.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/GenericExportGateway.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="38" selection-start="247" selection-end="254" vertical-scroll-proportion="0.0">
+            <state line="12" column="7" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExportFinishedListener.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ExportFinishedListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="35" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -82,7 +91,7 @@
       <file leaf-file-name="ItemProcessor.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ItemProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="44" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0">
+            <state line="22" column="138" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,7 +102,7 @@
       <file leaf-file-name="exporter-application.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/exporter-application.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="13" selection-start="1225" selection-end="1225" vertical-scroll-proportion="0.0">
+            <state line="22" column="28" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -102,7 +111,7 @@
       <file leaf-file-name="ItemAggregator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ItemAggregator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="31" selection-start="743" selection-end="755" vertical-scroll-proportion="0.0">
+            <state line="20" column="23" selection-start="571" selection-end="583" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,10 +128,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExportResult.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ExportResult.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ExportResult.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="47" selection-start="704" selection-end="704" vertical-scroll-proportion="0.0">
+            <state line="26" column="35" selection-start="582" selection-end="582" vertical-scroll-proportion="0.6437055">
               <folding />
             </state>
           </provider>
@@ -131,7 +140,7 @@
       <file leaf-file-name="ItemSplitter.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ItemSplitter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="21" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0">
+            <state line="23" column="26" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,15 +159,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExportItem.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ExportItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="36" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -170,17 +170,18 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/ExporterApp.java" />
-        <option value="$PROJECT_DIR$/src/com/arvatosystems/us/exporter/GenericExportGateway.java" />
         <option value="$PROJECT_DIR$/src/com/arvatosystems/us/exporter/AbstractApplicationContext.java" />
         <option value="$PROJECT_DIR$/resources/exporter-application.xml" />
         <option value="$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ItemSplitter.java" />
         <option value="$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ExportItem.java" />
         <option value="$PROJECT_DIR$/src/com/arvatosystems/us/exporter/Export.java" />
-        <option value="$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ItemProcessor.java" />
         <option value="$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ProcessedItem.java" />
         <option value="$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ExportResult.java" />
         <option value="$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ItemAggregator.java" />
+        <option value="$PROJECT_DIR$/src/com/arvatosystems/us/exporter/exporter-application.xml" />
+        <option value="$PROJECT_DIR$/src/com/arvatosystems/us/exporter/GenericExportGateway.java" />
         <option value="$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ExporterApp.java" />
+        <option value="$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ItemProcessor.java" />
       </list>
     </option>
   </component>
@@ -248,6 +249,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="exporter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exporter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exporter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -408,7 +423,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -420,9 +435,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.67108166" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33517158" sideWeight="0.5187638" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4812362" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -500,9 +515,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ExportFinishedListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="35" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/exporter-application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="28" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ItemSplitter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="21" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0">
+        <state line="23" column="26" selection-start="618" selection-end="618" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -511,49 +540,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ItemProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="44" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0">
+        <state line="22" column="138" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ItemAggregator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="31" selection-start="743" selection-end="755" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/exporter-application.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="13" selection-start="1225" selection-end="1225" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ExportResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="47" selection-start="704" selection-end="704" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/GenericExportGateway.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="38" selection-start="247" selection-end="254" vertical-scroll-proportion="0.0">
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ExporterApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="36" selection-start="1097" selection-end="1097" vertical-scroll-proportion="0.78533095">
+        <state line="44" column="29" selection-start="1316" selection-end="1316" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/GenericExportGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="7" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ItemAggregator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="23" selection-start="571" selection-end="583" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/arvatosystems/us/exporter/ExportResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="35" selection-start="582" selection-end="582" vertical-scroll-proportion="0.6437055">
+          <folding />
         </state>
       </provider>
     </entry>

@@ -17,7 +17,8 @@ public class ItemProcessor
     @ServiceActivator(inputChannel = "items", outputChannel = "processedItems")
     public ProcessedItem processItem(ExportItem exportItem)
     {
-        logger.info("Processing item:" + exportItem.getExportId() + "/" + exportItem.getItemId());
+
+        logger.info("Processing item:" + exportItem.getExportId() + "/" + exportItem.getItemId()+ " Thread: "+Thread.currentThread().getId());
         return new ProcessedItem(exportItem);
     }
 }
